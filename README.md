@@ -38,6 +38,9 @@ Ensure the security of the URLs used for downloading the installer and configura
 
 We welcome contributions! If you have suggestions for improvements or have identified bugs, please feel free to submit a pull request or open an issue.
 
+## Author
+This script was authored by [aviado1](https://github.com/aviado1).
+
 ## License
 
 This script streamlines the process of deploying and configuring FortiClient VPN, ensuring secure, efficient, and uniform access across your organization's IT landscape.
